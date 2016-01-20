@@ -9,12 +9,14 @@ Saving web passage: small util for Nette Framework
 
 ## Config.neon:
 
+```yml
 services:
 	- Ublaboo\WebPassage\WebPassage
+```
 
 ## Usage:
 
-```
+```php
 /**
  * @var Ublaboo\WebPassage\WebPassage
  * @inject
@@ -32,7 +34,7 @@ public function startup()
 
 Now when you need list of your website passage, you can get it by calling `WebPassage::getPassage`:
 
-```
+```php
 /**
  * Maximum size of passage array is 40
  */
