@@ -1,0 +1,30 @@
+{
+	"name": "ublaboo/web-passage",
+	"type": "library",
+	"description": "Saving web passage: small util for Nette Framework",
+	"keywords": ["session", "web-passage"],
+	"homepage": "http://ublaboo.paveljanda.com/web-passage",
+	"license": ["MIT"],
+	"support": {
+		"issues": "https://github.com/ublaboo/web-passage/issues"
+	},
+	"authors": [
+		{
+			"name": "Pavel Janda",
+			"homepage": "http://paveljanda.com"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"Ublaboo\\WebPassage\\": "src/"
+		}
+	},
+	"autoload-dev": {
+		"psr-4": {
+			"Ublaboo\\WebPassage\\Tests\\": "tests"
+		}
+	},
+	"require": {
+		"nette/http"        : "~2.3.0"
+	}
+}
