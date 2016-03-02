@@ -1,6 +1,7 @@
 [![Latest Stable Version](https://poser.pugx.org/ublaboo/web-passage/v/stable)](https://packagist.org/packages/ublaboo/web-passage)
 [![License](https://poser.pugx.org/ublaboo/web-passage/license)](https://packagist.org/packages/ublaboo/web-passage)
 [![Total Downloads](https://poser.pugx.org/ublaboo/web-passage/downloads)](https://packagist.org/packages/ublaboo/web-passage)
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/ublaboo/help)
 
 WebPassage
 ==========
