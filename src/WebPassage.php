@@ -48,7 +48,7 @@ class WebPassage extends Nette\Object
 				return;
 			}
 
-			if (strpos($url, '?do=') || strpos($url, '&do=')) {
+			if (strpos($url, '?' . Nette\Application\UI\Presenter::SIGNAL_KEY . '=') || strpos($url, '&' . Nette\Application\UI\Presenter::SIGNAL_KEY . '=')) {
 				return;
 			}
 
