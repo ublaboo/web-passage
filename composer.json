@@ -25,6 +25,6 @@
 		}
 	},
 	"require": {
-		"nette/http"        : "~2.3.0"
+		"nette/http" : "^2.3|^2.4"
 	}
 }
