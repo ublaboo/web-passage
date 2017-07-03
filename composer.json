@@ -3,7 +3,7 @@
 	"type": "library",
 	"description": "Saving web passage: small util for Nette Framework",
 	"keywords": ["session", "web-passage"],
-	"homepage": "http://ublaboo.paveljanda.com/web-passage",
+	"homepage": "https://ublaboo.org/web-passage",
 	"license": ["MIT"],
 	"support": {
 		"issues": "https://github.com/ublaboo/web-passage/issues"
