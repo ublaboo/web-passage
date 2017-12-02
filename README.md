@@ -12,7 +12,7 @@ Saving web passage: small util for Nette Framework
 
 ```yml
 services:
-	- Ublaboo\WebPassage\WebPassage
+    - Ublaboo\WebPassage\WebPassage
 ```
 
 ## Usage:
